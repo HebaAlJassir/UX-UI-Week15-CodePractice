@@ -1,0 +1,984 @@
+/*
+	@name imac___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 3941px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_imac___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 3941px;
+}
+
+#_bg__imac___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 3941px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_11 {
+	opacity:0.23999999463558;
+	top: 1088px;
+	left: 628px;
+	width: 835px;
+	height: 865px;
+	-ms-border-radius: 417.5px / 432.5px;
+	-o-border-radius: 417.5px / 432.5px;
+	-moz-border-radius: 417.5px / 432.5px;
+	-webkit-border-radius: 417.5px / 432.5px;
+	border-radius: 417.5px / 432.5px;
+	background:rgba(69,102,88,0.24);
+}
+
+
+#ellipse_12 {
+	opacity:0.31000000238419;
+	top: 2291px;
+	left: -279px;
+	width: 835px;
+	height: 865px;
+	-ms-border-radius: 417.5px / 432.5px;
+	-o-border-radius: 417.5px / 432.5px;
+	-moz-border-radius: 417.5px / 432.5px;
+	-webkit-border-radius: 417.5px / 432.5px;
+	border-radius: 417.5px / 432.5px;
+	background:rgba(236,180,146,0.31);
+}
+
+#group_9 {
+	top: 137px;
+	left: 0px;
+	width: 1151px;
+	height: 544px;
+}
+#frame_7 {
+	top: 0px;
+	left: 0px;
+	width: 1151px;
+	height: 544px;
+}
+#frame_6 {
+	top: 0px;
+	left: 0px;
+	width: 583px;
+	height: 544px;
+}
+
+#rectangle_16 {
+	top: 109px;
+	left: 0px;
+	width: 459px;
+	height: 435px;
+	background:rgba(60,80,73,1);
+}
+
+
+#mask_group {
+	top: 0px;
+	left: 128px;
+	width: 455px;
+	height: 455px;
+}
+
+#frame_2 {
+	top: 127px;
+	left: 647px;
+	width: 504px;
+	height: 290px;
+}
+
+#modern_asian___specialty_coffee {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	letter-spacing: 2px;
+	color:#456658;
+}
+
+
+#we_welcome_you_to_savor_the_flavor_of_the_world {
+	top: 40px;
+	left: 0px;
+	width: 565px;
+	height: 235px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 56px;
+	text-align: left;
+	letter-spacing: 2.24px;
+	color:#2A3833;
+}
+
+
+#get_ready_to_taste_our_take_on_modern_asian_menu__indulge_your_tastebud_with_the_burst_of_flavour_ {
+	top: 252px;
+	left: -3px;
+	width: 517px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#3C5049;
+}
+
+#frame_18 {
+	top: 1660px;
+	left: 127px;
+	width: 1155px;
+	height: 752px;
+}
+
+#rectangle_26 {
+	top: 0px;
+	left: 608px;
+	width: 547px;
+	height: 752px;
+	background:rgba(69,102,88,1);
+}
+
+
+#a_progression_of_rare_and_beautiful_ingrediens_where_texture__flavour__and_harmony_is_paramount_ {
+	top: 69.54px;
+	left: -3px;
+	width: 517px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#3C5049;
+}
+
+
+#__let_s_talk_about_our_signature_menu {
+	top: 64px;
+	left: 600px;
+	width: 446px;
+	height: 199px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 48px;
+	text-align: right;
+	letter-spacing: 1.92px;
+	color:#FFFFFF;
+}
+
+#group_38 {
+	top: 229px;
+	left: 0px;
+	width: 1025px;
+	height: 459px;
+}
+
+#mask_group_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	height: 331px;
+}
+
+
+#mask_group_ek2 {
+	top: 64px;
+	left: 347px;
+	width: 331px;
+	height: 331px;
+}
+
+
+#mask_group_ek3 {
+	top: 128px;
+	left: 694px;
+	width: 331px;
+	height: 331px;
+}
+
+#group_7 {
+	top: 135.54px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+}
+
+#rectangle_23 {
+	top: 0px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+	background:rgba(60,80,73,1);
+}
+
+
+#get_menu {
+	top: 14px;
+	left: 29px;
+	width: 105px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#FFFFFF;
+}
+
+#group_8 {
+	top: 881px;
+	left: 133px;
+	width: 1013px;
+	height: 579.46px;
+}
+#frame_5 {
+	top: 0px;
+	left: 0px;
+	width: 1013px;
+	height: 579.46px;
+}
+#frame_3 {
+	top: 142.23px;
+	left: 0px;
+	width: 504px;
+	height: 295px;
+}
+#frame_4 {
+	top: 0px;
+	left: 0px;
+	width: 504px;
+	height: 201px;
+}
+
+#choose_your_favorite_coffee {
+	top: 0px;
+	left: 0px;
+	width: 565px;
+	height: 167px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 56px;
+	text-align: left;
+	letter-spacing: 2.24px;
+	color:#2A3833;
+}
+
+
+#our_current_beans_line_up_for_filter_coffee__we_will_add_new_selection_for_the_guest_beans__keep_you_guys_updated_on_this_page_ {
+	top: 144px;
+	left: -3px;
+	width: 517px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#3C5049;
+}
+
+#group_7_ek1 {
+	top: 249px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+}
+
+#rectangle_23_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+	background:rgba(60,80,73,1);
+}
+
+
+#learn_more {
+	top: 13px;
+	left: 18px;
+	width: 127px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#FFFFFF;
+}
+
+#group_6 {
+	top: 0px;
+	left: 520px;
+	width: 493px;
+	height: 579.46px;
+}
+
+#mask_group_ek4 {
+	top: 36px;
+	left: 36px;
+	width: 456.98px;
+	height: 543.93px;
+}
+
+
+#rectangle_22 {
+	top: 0px;
+	left: 0px;
+	width: 387.9px;
+	height: 566.3px;
+	border: 2px solid #c3a25d;
+	background:rgba(196,196,196,0);
+}
+
+#group_37 {
+	top: 3461px;
+	left: 0px;
+	width: 1280px;
+	height: 480px;
+}
+
+#rectangle_18 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 480px;
+	background:rgba(69,102,88,1);
+}
+
+#frame_16 {
+	top: 50px;
+	left: 127px;
+	width: 1025px;
+	height: 356px;
+}
+#frame_17 {
+	top: 0px;
+	left: 133px;
+	width: 759px;
+	height: 91px;
+}
+
+#some_of_our_happy_customer {
+	top: 0px;
+	left: 0px;
+	width: 820px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 56px;
+	text-align: left;
+	letter-spacing: 2.24px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_24 {
+	opacity:0.89999997615814;
+	top: 88px;
+	left: 289.5px;
+	width: 180px;
+	height: 3px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(255,255,255,0.9);
+}
+
+#frame_15 {
+	top: 139px;
+	left: 0px;
+	width: 1025px;
+	height: 217px;
+}
+#frame_12 {
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	height: 217px;
+}
+
+#rectangle_25 {
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	height: 217px;
+	background:rgba(255,255,255,1);
+}
+
+#bx_bxs_quote_alt_left {
+	top: 13px;
+	left: 11px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#bx_bxs_quote_alt_left_ek1 {
+	top: 158px;
+	left: 270px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector_ek1 {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#frame_11 {
+	top: 69px;
+	left: 24px;
+	width: 282px;
+	height: 92px;
+}
+
+#one_of_the_best_place_to_visit_and_hang_out__good_service_and_lot_of_spots_to_take_a_photo {
+	top: 0px;
+	left: -3px;
+	width: 295px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+
+#___quinta_adelia {
+	top: 73px;
+	left: -3px;
+	width: 295px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+#frame_14 {
+	top: 0px;
+	left: 347px;
+	width: 331px;
+	height: 217px;
+}
+
+#rectangle_25_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	height: 217px;
+	background:rgba(255,255,255,1);
+}
+
+#bx_bxs_quote_alt_left_ek2 {
+	top: 13px;
+	left: 11px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector_ek2 {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#bx_bxs_quote_alt_left_ek3 {
+	top: 158px;
+	left: 270px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector_ek3 {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#frame_11_ek1 {
+	top: 59px;
+	left: 24px;
+	width: 282px;
+	height: 111px;
+}
+
+#cozy_place_with_many_instagrammable_spots__but_most_importantly_excellent_service_and_tasty_food_with_reasonable_price {
+	top: 0px;
+	left: -3px;
+	width: 295px;
+	height: 87px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+
+#___natasya {
+	top: 92px;
+	left: -3px;
+	width: 295px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+#frame_13 {
+	top: 0px;
+	left: 694px;
+	width: 331px;
+	height: 217px;
+}
+
+#rectangle_25_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	height: 217px;
+	background:rgba(255,255,255,1);
+}
+
+#bx_bxs_quote_alt_left_ek4 {
+	top: 13px;
+	left: 11px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector_ek4 {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#bx_bxs_quote_alt_left_ek5 {
+	top: 158px;
+	left: 270px;
+	width: 48px;
+	height: 48px;
+}
+
+#vector_ek5 {
+	top: 8.06px;
+	left: 3.88px;
+	width: 40.12px;
+	height: 29.94px;
+}
+
+#frame_11_ek2 {
+	top: 69px;
+	left: 24px;
+	width: 282px;
+	height: 92px;
+}
+
+#this_place_where_you_can_got_a_good_atmosphere_and_good_food__the_owner_have_good_taste_high_enough {
+	top: 0px;
+	left: -3px;
+	width: 295px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+
+#___yosina_ribkah_kalalo {
+	top: 73px;
+	left: -3px;
+	width: 295px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#3C5049;
+}
+
+#group_40 {
+	top: 2612px;
+	left: 0px;
+	width: 1152px;
+	height: 648.54px;
+}
+#frame_4_ek1 {
+	top: 0px;
+	left: 561px;
+	width: 591px;
+	height: 423px;
+}
+#frame_19 {
+	top: 0px;
+	left: 0px;
+	width: 591px;
+	height: 329px;
+}
+
+#__having_an_afternoon_tea_with_best_friend_is_all_theraphy_you_need____anonymous {
+	top: 0px;
+	left: 0px;
+	width: 652px;
+	height: 295px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 56px;
+	text-align: left;
+	letter-spacing: 2.24px;
+	color:#2A3833;
+}
+
+
+#imagine_having_a_quality_time_with_your_family_and_friend_in_a_comfortable_and_fully_aesthetic_place_where_you_can_taste_various_asian_fusion_food_and_a_finest_beans_coffee_ {
+	top: 272px;
+	left: -3px;
+	width: 604px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#3C5049;
+}
+
+#group_7_ek2 {
+	top: 377px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+}
+
+#rectangle_23_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 157px;
+	height: 46px;
+	background:rgba(60,80,73,1);
+}
+
+
+#book_now {
+	top: 14px;
+	left: 24px;
+	width: 115px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: justified;
+	letter-spacing: 1.28px;
+	color:#FFFFFF;
+}
+
+#group_39 {
+	top: 0px;
+	left: 0px;
+	width: 530px;
+	height: 648.54px;
+}
+
+#_245105239_1283571285477793_3885104021901270715_n_1 {
+	top: 0px;
+	left: 0px;
+	width: 507px;
+	height: 620.41px;
+}
+
+
+#rectangle_22_ek1 {
+	top: 247px;
+	left: 128px;
+	width: 305.74px;
+	height: 506.2px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	border: 2.1px solid #c3a25d;
+	background:rgba(196,196,196,0);
+}
+
+
+#asian {
+	top: 1431px;
+	left: -31px;
+	width: 725px;
+	height: 369px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 200px;
+	text-align: left;
+	letter-spacing: 8px;
+	color:#3C5049;
+}
+
+
+#pride {
+	top: 592px;
+	left: 647px;
+	width: 960px;
+	height: 516px;
+	overflow: hidden;
+	font-family: Glamour Absolute;
+	font-size: 280px;
+	text-align: left;
+	letter-spacing: 11.2px;
+	color:#3C5049;
+}
+
+#group_3 {
+	top: 24px;
+	left: 128px;
+	width: 157px;
+	height: 53px;
+}
+
+#rectangle_11 {
+	top: 0px;
+	left: 0px;
+	width: 157px;
+	height: 53px;
+	background:rgba(255,255,255,0);
+}
+
+#logo {
+	top: 8px;
+	left: 26px;
+	width: 105.57px;
+	height: 36.71px;
+}
+
+#s_re_ {
+	top: 0px;
+	left: 0px;
+	width: 140.81702072144px;
+	height: 57.957020721436px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 30.49px;
+	text-align: left;
+	letter-spacing: 1.2196px;
+	color:#456658;
+}
+
+
+#subtract {
+	top: 8px;
+	left: 19px;
+	width: 22.64px;
+	height: 22.64px;
+}
+
+#group_1 {
+	top: 12px;
+	left: 19px;
+	width: 23.02px;
+	height: 10.65px;
+}
+
+#vector_1 {
+	top: 6px;
+	left: 9px;
+	width: 4.66px;
+	height: 3.61px;
+}
+
+
+#rectangle_2 {
+	top: 7px;
+	left: 0px;
+	width: 5.14px;
+	height: 0.76px;
+	-ms-border-radius: 0.38px;
+	-o-border-radius: 0.38px;
+	-moz-border-radius: 0.38px;
+	-webkit-border-radius: 0.38px;
+	border-radius: 0.38px;
+	background:rgba(236,180,146,1);
+}
+
+
+#rectangle_3 {
+	top: 7px;
+	left: 15px;
+	width: 7.61px;
+	height: 0.76px;
+	-ms-border-radius: 0.38px;
+	-o-border-radius: 0.38px;
+	-moz-border-radius: 0.38px;
+	-webkit-border-radius: 0.38px;
+	border-radius: 0.38px;
+	background:rgba(236,180,146,1);
+}
+
+#group_2 {
+	top: 0px;
+	left: 4px;
+	width: 14.46px;
+	height: 7.04px;
+}
+
+#rectangle_4 {
+	top: 6px;
+	left: 0px;
+	width: 14.46px;
+	height: 0.76px;
+	-ms-border-radius: 0.38px;
+	-o-border-radius: 0.38px;
+	-moz-border-radius: 0.38px;
+	-webkit-border-radius: 0.38px;
+	border-radius: 0.38px;
+	background:rgba(236,180,146,1);
+}
+
+
+#ellipse_2 {
+	top: 0px;
+	left: 1px;
+	width: 12.75px;
+	height: 6.28px;
+}
+
+
+#rectangle_5 {
+	top: 7px;
+	left: 6px;
+	width: 8.94px;
+	height: 0.76px;
+	-ms-border-radius: 0.38px;
+	-o-border-radius: 0.38px;
+	-moz-border-radius: 0.38px;
+	-webkit-border-radius: 0.38px;
+	border-radius: 0.38px;
+	background:rgba(236,180,146,1);
+}
+
+
+#rectangle_6 {
+	top: 10px;
+	left: 7px;
+	width: 10.27px;
+	height: 0.76px;
+	-ms-border-radius: 0.38px;
+	-o-border-radius: 0.38px;
+	-moz-border-radius: 0.38px;
+	-webkit-border-radius: 0.38px;
+	border-radius: 0.38px;
+	background:rgba(236,180,146,1);
+}
+
+
+#home {
+	top: 42px;
+	left: 773px;
+	width: 58px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#388878;
+}
+
+
+#menu {
+	top: 42px;
+	left: 866px;
+	width: 56px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#388878;
+}
+
+
+#facility {
+	top: 42px;
+	left: 957px;
+	width: 67px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#388878;
+}
+
+
+#reservation {
+	top: 42px;
+	left: 1059px;
+	width: 103px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Lato;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.64px;
+	color:#388878;
+}
+
+
+
+/* Add your custom CSS here */
